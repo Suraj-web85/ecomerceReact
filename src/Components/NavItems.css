@@ -1,0 +1,13 @@
+.logo img{
+  max-width: 204px;
+  height: clamp(2.8125rem, 2.4955rem + 0.6605vw, 3.125rem);
+}
+.header-bottom .container {
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+}
+.menu-area {
+  display: flex;
+  align-items: center;
+}
